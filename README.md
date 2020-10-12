@@ -1,2 +1,2 @@
 # proofs
-Mischellaneous vibes
+Mischellaneous proofs
